@@ -1,16 +1,35 @@
-## Hi there 👋
+# Gbenga Olufisayo
 
-<!--
-**Gbenga512/Gbenga512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Finance | Financial Engineering | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio.  
+I build financial models and quantitative analysis tools using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Python  
+Quantitative Finance  
+Financial Engineering  
+Risk Modeling  
+Algorithmic Trading  
+Financial Data Analysis  
+
+## Projects
+
+• Yield Curve Modeling (Nelson-Siegel Model)  
+• Portfolio Optimization (Markowitz Model)  
+• Value at Risk (VaR) Risk Model  
+• Black-Scholes Option Pricing  
+• Algorithmic Trading Strategy  
+
+## Tools
+
+Python  
+NumPy  
+Pandas  
+Matplotlib  
+SciPy  
+
+## Contact
+
+GitHub: github.com/Gbenga512
