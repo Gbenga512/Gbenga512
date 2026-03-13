@@ -22,6 +22,8 @@ Currently pursuing advanced studies in Financial Engineering and developing real
 ### Quant Finance Portfolio
 [View Repository](https://github.com/Gbenga512/quant-finance-portfolio)
 
+A collection of quantitative finance models implemented in Python, including risk modeling, derivatives pricing, portfolio optimization, and algorithmic trading strategies.
+
 This repository contains implementations of key quantitative finance models including:
 
 - Algorithmic Trading Strategy
