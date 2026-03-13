@@ -16,3 +16,15 @@ My work includes:
 - Yield Curve Modeling (Nelson-Siegel)
 
 Currently pursuing advanced studies in Financial Engineering and developing real-world quantitative finance projects.
+## Featured Quant Projects
+
+Quant Finance Portfolio  
+https://github.com/Gbenga512/quant-finance-portfolio
+
+This repository contains implementations of key quantitative finance models including:
+
+- Algorithmic Trading Strategy
+- Black-Scholes Option Pricing
+- Portfolio Optimization
+- Value-at-Risk Risk Model
+- Yield Curve Modeling
