@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Quant Finance](https://img.shields.io/badge/Finance-Quantitative-green)
+![Financial Engineering](https://img.shields.io/badge/Field-Financial%20Engineering-orange)
+
 # Gbenga Olufisayo
 
 Quantitative Finance | Financial Engineering | Python Developer
