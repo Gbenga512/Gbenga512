@@ -4,8 +4,8 @@
 ![MSFE](https://img.shields.io/badge/MSFE-Candidate-red)
 
 # Gbenga Olufisayo
+Accountant | Treasury & Financial Analytics Professional | Financial Engineering Candidate | Python Developer | Builder of AI-Powered Financial Intelligence Platforms
 
-Accountant | Treasury Professional | Financial Engineering Candidate | Python Developer
 
 I build financial intelligence platforms, treasury analytics solutions, and financial engineering applications using Python.
 
