@@ -37,10 +37,10 @@ Future Development:
 - Company Comparison Tool
 
 Live Demo:
-[Insert Streamlit Link]
+[https://nigeria-finance-dashboard-5brcqb4w4rsryneyh4tyeq.streamlit.app/]
 
 Repository:
-[Insert GitHub Repository Link]
+[https://github.com/Gbenga512/nigeria-finance-dashboard]
 
 ## Featured Quant Projects
 
