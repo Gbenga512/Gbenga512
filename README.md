@@ -1,6 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Quant Finance](https://img.shields.io/badge/Finance-Quantitative-green)
-![Financial Engineering](https://img.shields.io/badge/Field-Financial%20Engineering-orange)
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Treasury](https://img.shields.io/badge/Treasury-Analytics-green)
+![Finance](https://img.shields.io/badge/Financial-Intelligence-purple)
+![MSFE](https://img.shields.io/badge/MSFE-Candidate-red)
 
 # Gbenga Olufisayo
 
