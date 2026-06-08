@@ -4,18 +4,42 @@
 
 # Gbenga Olufisayo
 
-Quantitative Finance | Financial Engineering | Python Developer
+Accountant | Treasury Professional | Financial Engineering Candidate | Python Developer
 
-I build quantitative finance models and financial engineering tools using Python.
+I build financial intelligence platforms, treasury analytics solutions, and financial engineering applications using Python.
 
-My work includes:
-- Algorithmic Trading Strategies
-- Black-Scholes Option Pricing
-- Portfolio Optimization (Markowitz Model)
-- Value-at-Risk Risk Modeling
-- Yield Curve Modeling (Nelson-Siegel)
+My work combines accounting, treasury management, financial analysis, data analytics, and financial engineering to solve real-world business and investment problems.
 
-Currently pursuing advanced studies in Financial Engineering and developing real-world quantitative finance projects.
+Current flagship project:
+
+NG Finance Pro – an AI-powered Financial Intelligence Platform that provides market intelligence, treasury monitoring, budget analysis, bank reconciliation tools, and future financial statement analysis capabilities for investors and finance professionals.
+
+## Featured Financial Intelligence Project
+
+### NG Finance Pro
+
+AI-Powered Financial Intelligence Platform
+
+Features:
+- Market Intelligence Dashboard
+- Treasury Dashboard
+- Bank Reconciliation Tool
+- Budget vs Actual Analysis
+- AI Market Insights
+- Financial News Terminal
+
+Future Development:
+- Financial Statement Analyzer
+- Financial Health Scoring
+- Ratio Analysis Engine
+- Investor Recommendation System
+- Company Comparison Tool
+
+Live Demo:
+[Insert Streamlit Link]
+
+Repository:
+[Insert GitHub Repository Link]
 
 ## Featured Quant Projects
 
