@@ -19,7 +19,7 @@ NG Finance Pro – an AI-powered Financial Intelligence Platform that provides m
 
 ### NG Finance Pro
 
-AI-Powered Financial Intelligence Platform
+AI-Powered Financial Intelligence, Treasury Analytics, and Investment Research Platform
 
 Features:
 - Market Intelligence Dashboard
